@@ -1,0 +1,14 @@
+{
+  "name": "json2firestore",
+  "version": "1.0.0",
+  "description": "Import JSON into Firebase Firestore DB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Gil Creque",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^7.1.0"
+  }
+}
