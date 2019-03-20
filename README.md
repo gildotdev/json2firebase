@@ -6,3 +6,4 @@
 # TODO
 
 - Make this more generic to run from CLI
+- Use TypeScript
